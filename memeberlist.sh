@@ -6,3 +6,5 @@ oge
 chika
 nnamdi
 ify
+Tom
+Jerry
